@@ -128,12 +128,9 @@ footer .navbar-dark .nav-link {
     border-top-right-radius: calc(0.25rem - 1px);
     max-height: 150px; /* Limit image height */
 }
-
 .card-body {
     padding: 10px; /* Reduced padding */
 }
-
-
 
 .card-text {
     font-size: 0.9rem; /* Adjusted font size for readability */
